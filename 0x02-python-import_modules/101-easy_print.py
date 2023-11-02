@@ -1,2 +1,3 @@
 #!usr/bin/python3
-python_code_error
+import os
+os.write(1, b"#pythoniscool\n")
