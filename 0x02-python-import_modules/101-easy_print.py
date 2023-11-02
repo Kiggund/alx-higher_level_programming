@@ -1,2 +1,3 @@
-#!/bin/bash
-echo "#pythoniscool"
+#!/usr/bin/python3
+
+print("#pythoniscool", end="")
